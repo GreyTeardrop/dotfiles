@@ -4589,6 +4589,50 @@
             }
           }
         }
+      },
+      "chezmoi": {
+        "version": "2.40.3",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_sonoma": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:ae9f7c7cd2531d208b4832b228e4b981a40d955015a6139dccdeeee6ac4ab2a2",
+              "sha256": "ae9f7c7cd2531d208b4832b228e4b981a40d955015a6139dccdeeee6ac4ab2a2"
+            },
+            "arm64_ventura": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:75c3279025afe383b77f9678b9fefbfbe6e91eb1c9e556c580798066d6ded357",
+              "sha256": "75c3279025afe383b77f9678b9fefbfbe6e91eb1c9e556c580798066d6ded357"
+            },
+            "arm64_monterey": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:4ac1cdf0728188e154736809fa3d8dfdb610df9c4f50e46c1452c6d44c845ef6",
+              "sha256": "4ac1cdf0728188e154736809fa3d8dfdb610df9c4f50e46c1452c6d44c845ef6"
+            },
+            "sonoma": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:ec6bbff59fa0303fef83785f9372fbf4940cef9bd6c6516dc3fa0b6306068382",
+              "sha256": "ec6bbff59fa0303fef83785f9372fbf4940cef9bd6c6516dc3fa0b6306068382"
+            },
+            "ventura": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:1306bd71dcfd2dd223d83a9545b436c16830a75605af63bef8e2f8bfc8900dbf",
+              "sha256": "1306bd71dcfd2dd223d83a9545b436c16830a75605af63bef8e2f8bfc8900dbf"
+            },
+            "monterey": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:8c4085ee04ba170e7594fa7ca2e1f6d24540f7742169be4297498850e9e3af31",
+              "sha256": "8c4085ee04ba170e7594fa7ca2e1f6d24540f7742169be4297498850e9e3af31"
+            },
+            "x86_64_linux": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/chezmoi/blobs/sha256:9f3a8b139ded482725f6cfc4f991a26305f1448941d04b8becc8d54b4973e009",
+              "sha256": "9f3a8b139ded482725f6cfc4f991a26305f1448941d04b8becc8d54b4973e009"
+            }
+          }
+        }
       }
     },
     "cask": {

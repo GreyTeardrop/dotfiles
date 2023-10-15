@@ -25,6 +25,7 @@ brew "bat"
 brew "blueutil"
 brew "bottom"
 brew "btop"
+brew "chezmoi"
 brew "cmake" # Required for better NeoVim experience
 brew "coreutils"
 brew "csvkit"
