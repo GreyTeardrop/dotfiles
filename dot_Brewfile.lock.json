@@ -5021,6 +5021,12 @@
         "options": {
           "full_name": "parsec"
         }
+      },
+      "crossover": {
+        "version": "23.6.0",
+        "options": {
+          "full_name": "crossover"
+        }
       }
     },
     "mas": {
