@@ -5,7 +5,7 @@
         "revision": "e4798d8075e1a793f065be3e5e1674ec09193d17"
       },
       "homebrew/command-not-found": {
-        "revision": "dda419974e49fa54581f53f1eb083eda5c37236b"
+        "revision": "6434a6903693313cf249e2499911ef730eb8ce75"
       },
       "homebrew/services": {
         "revision": "6819359f72a8e0001370790685bf86c9897d9757"
@@ -14,7 +14,7 @@
         "revision": "6f04e418dc2bbb72fc438b25de315e0d48aff286"
       },
       "jdxcode/tap": {
-        "revision": "40b6c064d171463c779809ce8596449d0b1d9700"
+        "revision": "0949a18017c47226195164017c8bb7e4ac2960ef"
       },
       "earthly/earthly": {
         "revision": "c214c4aa6ab559769f4f48f7981b4ad1c449e0ac"
@@ -26,13 +26,13 @@
         "revision": "b7eb87238702da9eea7e5a19e8c43e416ab3c797"
       },
       "homebrew/cask-versions": {
-        "revision": "5464f0f1499ec990369dbb05cf6c837d122f6643"
+        "revision": "c1d60c135e3d6fda243e8f21e8ea205919147daf"
       },
       "brimdata/tap": {
-        "revision": "241d8efce3ad57ea6001b784ad890ceb0010e858"
+        "revision": "cbb18499e5658b7076b90c56c172ae28afa4d098"
       },
       "mongodb/brew": {
-        "revision": "d5bbdcff2d3384748fe31577ee3340e262980fe5"
+        "revision": "2d0bfe19214d1f5071decd238b29306a6e82fff2"
       },
       "homebrew/cask-drivers": {
         "revision": "f062033b264109fcdde69596d34036fe1a9e227d"
@@ -521,7 +521,7 @@
         }
       },
       "jdxcode/tap/rtx": {
-        "version": "2023.12.30",
+        "version": "2023.12.31",
         "bottle": false
       },
       "earthly/earthly/earthly": {
@@ -2649,11 +2649,11 @@
         "bottle": false
       },
       "brimdata/tap/zed": {
-        "version": "1.11.1",
+        "version": "1.12.0",
         "bottle": false
       },
       "brimdata/tap/zq": {
-        "version": "1.11.1",
+        "version": "1.12.0",
         "bottle": false
       },
       "libffi": {
@@ -3028,7 +3028,7 @@
         "bottle": false
       },
       "mongodb/brew/mongodb-database-tools": {
-        "version": "100.9.3",
+        "version": "100.9.4",
         "bottle": false
       },
       "gh": {
@@ -4652,7 +4652,7 @@
         }
       },
       "bartender": {
-        "version": "5.0.48",
+        "version": "5.0.49",
         "options": {
           "full_name": "bartender"
         }
@@ -4670,7 +4670,7 @@
         }
       },
       "discord": {
-        "version": "0.0.289",
+        "version": "0.0.290",
         "options": {
           "full_name": "discord"
         }
@@ -4862,7 +4862,7 @@
         }
       },
       "vimr": {
-        "version": "0.45.2,20231214.165334",
+        "version": "0.45.3,20231219.174252",
         "options": {
           "full_name": "vimr"
         }
@@ -4934,7 +4934,7 @@
         }
       },
       "orbstack": {
-        "version": "1.1.0_16370",
+        "version": "1.2.0_16496",
         "options": {
           "full_name": "orbstack"
         }
@@ -4989,7 +4989,7 @@
       },
       "Infuse": {
         "id": "1136220934",
-        "version": "7.6.4"
+        "version": "7.6.5"
       },
       "Keynote": {
         "id": "409183694",
@@ -5089,7 +5089,7 @@
       },
       "Pixelmator Pro": {
         "id": "1289583905",
-        "version": "3.5.1"
+        "version": "3.5.2"
       }
     }
   },
@@ -5104,12 +5104,12 @@
         "macOS": "13.6"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.2.0-19-g23ce2d5",
+        "HOMEBREW_VERSION": "4.2.0-33-g075e977",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.1.0.0.1.1700200546",
         "Xcode": "15.1",
-        "macOS": "14.2"
+        "macOS": "14.2.1"
       }
     }
   }
